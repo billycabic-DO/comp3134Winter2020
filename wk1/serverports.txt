@@ -1,0 +1,23 @@
+1) What is the definition of server port?
+
+The answer is "An endpoint where data can flow from your PC to a server"
+
+2) What is server port range?
+
+The answer is "0-65536"
+
+3) How many bits does number above represent?
+
+16
+
+4) State 10 common server ports
+
+The answer is 
+
+Minecraft - 25565
+Apple - 548 (TCP), 554 (TCP/UDP)
+Google - 993 (IMAP), 995(POP), 465(SMTP w/ TLS), 443(UDP)
+Outlook - 993 (IMAP), 587(SMTP)
+SQL Server - 1433
+MySQL - 3306
+Angular - 4200
