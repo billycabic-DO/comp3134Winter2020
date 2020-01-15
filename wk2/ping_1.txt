@@ -1,0 +1,12 @@
+$ ping 52.219.0.50
+
+Pinging 52.219.0.50 with 32 bytes of data:
+Reply from 52.219.0.50: bytes=32 time=137ms TTL=41
+Reply from 52.219.0.50: bytes=32 time=138ms TTL=41
+Reply from 52.219.0.50: bytes=32 time=137ms TTL=41
+Reply from 52.219.0.50: bytes=32 time=137ms TTL=41
+
+Ping statistics for 52.219.0.50:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 137ms, Maximum = 138ms, Average = 137ms

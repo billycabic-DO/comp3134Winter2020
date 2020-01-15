@@ -1,0 +1,199 @@
+1. github.com
+Domain Information
+Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+ns-1283.awsdns-32.org
+
+ns-1707.awsdns-21.co.uk
+
+ns1.p16.dynect.net
+
+ns2.p16.dynect.net
+
+ns3.p16.dynect.net
+
+ns-421.awsdns-52.com
+
+ns4.p16.dynect.net
+
+ns-520.awsdns-01.net
+
+Dates
+Registry Expiration: 2020-10-09 18:20:50 UTC
+Registrar Expiration: 2020-10-09 18:20:50 UTC
+Created: 2007-10-09 18:20:50 UTC
+Contact Information
+Registrant:
+Organization: GitHub, Inc.
+Mailing Address: CA, US
+Technical:
+Mailing Address: CA, US
+Administrative:
+Mailing Address: CA, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/github.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/GITHUB.COM
+Last updated from Registrar RDAP DB: 2020-01-15 13:10:45 UTC
+
+2. facebook.com
+Domain Information
+Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A.NS.FACEBOOK.COM
+
+B.NS.FACEBOOK.COM
+
+C.NS.FACEBOOK.COM
+
+D.NS.FACEBOOK.COM
+
+Dates
+Registry Expiration: 2028-03-30 04:00:00 UTC
+Created: 1997-03-29 05:00:00 UTC
+Registrar Information
+Name: RegistrarSafe, LLC
+IANA ID: 3237
+Abuse Contact Email: abusecomplaints@registrarsafe.com
+Abuse Contact Phone: tel:+1-650-308-7004
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/facebook.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdap.registrarsafe.com/domain/FACEBOOK.COM
+
+3. reddit.com
+Domain Information
+Name: reddit.com
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+ns-1029.awsdns-00.org
+
+ns-1887.awsdns-43.co.uk
+
+ns-378.awsdns-47.com
+
+ns-557.awsdns-05.net
+
+Dates
+Registry Expiration: 2020-04-29 17:59:19 UTC
+Registrar Expiration: 2020-04-29 17:59:19 UTC
+Created: 2005-04-29 17:59:19 UTC
+Contact Information
+Registrant:
+Organization: Reddit Inc.
+Mailing Address: CA, US
+Technical:
+Mailing Address: CA, US
+Administrative:
+Mailing Address: CA, US
+Redacted for privacy: some of the data in this object has been removed.
+
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse Contact Email: abusecomplaints@markmonitor.com
+Abuse Contact Phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/reddit.com
+Last updated from Registry RDAP DB: 2020-01-15 06:45:09 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/REDDIT.COM
+Last updated from Registrar RDAP DB: 2020-01-15 13:13:57 UTC
+
+4. stackoverflow.com
+Domain Information
+Name: STACKOVERFLOW.com
+Registry Domain ID: 108907621_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+ns-1033.awsdns-01.org
+
+ns-358.awsdns-44.com
+
+ns-cloud-e1.googledomains.com
+
+ns-cloud-e2.googledomains.com
+
+Dates
+Registry Expiration: 2021-02-02 11:59:59 UTC
+Registrar Expiration: 2021-02-02 11:59:59 UTC
+Created: 2003-12-26 19:18:07 UTC
+Contact Information
+Registrant:
+Organization: Stack Exchange, Inc.
+Mailing Address: NY, US
+Technical:
+Organization: Non-Public Data
+Mailing Address: Non-Public Data, AB
+Administrative:
+Organization: Non-Public Data
+Mailing Address: Non-Public Data, AB
+Billing:
+Organization: Non-Public Data
+Mailing Address: Non-Public Data, AB
+Redacted for privacy: some of the data in this object has been removed.
+
+DNSSEC Information
+Delegation Signed: Signed
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/stackoverflow.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://namerdap.systems/domain/STACKOVERFLOW.COM
+
+5. funimation.comDomain Information
+Name: FUNIMATION.COM
+Registry Domain ID: 3925785_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+COCO.NS.CLOUDFLARE.COM
+
+ERIC.NS.CLOUDFLARE.COM
+
+Dates
+Registry Expiration: 2025-02-26 05:00:00 UTC
+Created: 1999-02-26 05:00:00 UTC
+Registrar Information
+Name: NetEarth One Inc. d/b/a NetEarth
+IANA ID: 1005
+Abuse Contact Email: a-b-u-s-e.whois.field@netearthone.com
+Abuse Contact Phone: tel:+44 02030 26 99 87
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap-core.vrsn.com/com/v1/domain/funimation.com
+Last updated from Registry RDAP DB: 2020-01-15 06:46:11 UTC
+Registrar Server URL: https://rdapserver.net/domain/FUNIMATION.COM
